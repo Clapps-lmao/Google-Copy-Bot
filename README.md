@@ -73,3 +73,5 @@ Feel free to customize and extend the script to suit your specific requirements.
 
   the rest is pretty self explanatory. Hope you all enjoy!
 
+
+I AM NOT LIABLE FOR ANY DAMAGE DONE TO YOUR FILES, IF ANY.
